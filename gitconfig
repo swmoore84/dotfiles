@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = swmoore84@gmail.com
+	email = sam@xenon.io
 	name = Sam Moore
